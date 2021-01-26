@@ -1,0 +1,43 @@
+struct MinimapMsg{
+    int cmd = 0;
+    int friendNumber = 0;
+    int fx1 = 0;
+    int fy1 = 0;
+    int fx2 = 0;
+    int fy2 = 0;
+    int fx3 = 0;
+    int fy3 = 0;
+    int fx4 = 0;
+    int fy4 = 0;
+    int fx5 = 0;
+    int fy5 = 0;
+    int fx6 = 0;
+    int fy6 = 0;
+    int fx7 = 0;
+    int fy7 = 0;
+    int fx8 = 0;
+    int fy8 = 0;
+    int enemyNumber = 0;
+    int ex1 = 0;
+    int ey1 = 0;
+    int ex2 = 0;
+    int ey2 = 0;
+    int ex3 = 0;
+    int ey3 = 0;
+    int ex4 = 0;
+    int ey4 = 0;
+    int ex5 = 0;
+    int ey5 = 0;
+    int ex6 = 0;
+    int ey6 = 0;
+    int ex7 = 0;
+    int ey7 = 0;
+    int ex8 = 0;
+    int ey8 = 0;
+};
+
+struct MovingMsg{
+    int cmd = 0;
+    int x = 0;
+    int y = 0;
+};
