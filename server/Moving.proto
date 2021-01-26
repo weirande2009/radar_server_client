@@ -1,7 +1,0 @@
-syntax="proto3";
-package Transfer;
-message Moving
-{
-    int32 x = 1;
-    int32 y = 2;
-}
