@@ -1,2 +1,2 @@
 # radar_server_client
-radar server and client
+server and client of radar station
